@@ -1,14 +1,30 @@
 # Sorrel-loves-bookmarks
 
+My loveletter to the Internet and everything it's given me and all I want to give back, for what I can, may anyone discover something beautiful through this list, may this be the match to light a fire for someone, or simply a fun passtime to enjoy some corners of the internet.
+In additions, I have about 600 bookmarks that deal with archives of old software or hardware, but adding them one by one is quite tedious and I'm not sure I can find the time to do that. If anyone has any suggestion for how I may do that, please go ahead.  
+Thank you :)
+
+- Sorrel! (not the plant)
+
 ################## Arts and Media ######################
 
 [Are.na](are.na)
 
 [RateYourMusic](https://rateyourmusic.com/)
 
+[aporee radio](https://aporee.org/)
+
 [GifCities](https://gifcities.org/)
 
 [Flashpoint](https://flashpointarchive.org/)
+
+[pouët.net :: your online demoscene resource](https://www.pouet.net/)
+
+[The Old Net](https://theoldnet.com/)
+
+[Shadertoy](https://www.shadertoy.com/)
+
+[GLSL Sandbox Gallery](https://glslsandbox.com/)
 
 [vvvv visual live-programming](https://visualprogramming.net/)
 
@@ -16,11 +32,15 @@
 
 [Sabato Visconti](https://www.sabatobox.com/)
 
+[John Conway's Game of Life](https://playgameoflife.com/)
+
 [My 90s TV](https://www.my90stv.com/)
 
 [Just For Fun](https://justforfun.io/)
 
 [Notpron by David Münnich - The Hardest Riddle Available on the Internet](http://www.notpron.com/)
+
+[Orb.Farm](https://orb.farm/)
 
 [Huge indie video game artists space](https://itch.io/)
 
@@ -38,11 +58,15 @@
 
 [SimplyScripts - big database of downloadable scripts](https://www.simplyscripts.com/)
 
+[Freesound](https://freesound.org/)
+
 [UbuWeb](https://www.ubuweb.com/)
 
 [Monoskop](https://monoskop.org/Monoskop)
 
 [ExternalTube - YouTube archive project that ranges with videos from 2005-2009](https://exttube.snippr.win/)
+
+[BBC Sound Effects](https://sound-effects.bbcrewind.co.uk/)
 
 
 
@@ -55,11 +79,17 @@
 
 [The Eye](https://the-eye.eu/)
 
+[OpenDirectories](https://www.reddit.com/r/opendirectories/)
+
 [ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page)
 
 [Geocities Archive](https://www.oocities.org/)
 
+[Geocities Gallery](https://geocities.restorativland.org/)
+
 [The Weather Channel Archive](https://twcclassics.com/)
+
+[Phonetones Archive](http://3.onj.me/phonetones/)
 
 [The Internet Speculative Fiction Database](https://www.isfdb.org/)
 
@@ -205,15 +235,34 @@
 
 [Zooniverse - People-powered research](https://www.zooniverse.org/)
 
+[This Website Will Self Destruct - May this website never cease to exist](https://www.thiswebsitewillselfdestruct.com/)
+
+[Unsent Project Archive](https://theunsentproject.com/#)
+
 [Digital Library of Appalachia](https://dla.contentdm.oclc.org/)
 
 [Tanzania Heritage Project](https://www.tanzaniaheritageproject.org/)
+
+[Macaulay Library](https://www.macaulaylibrary.org/)
+
 
 
 
 
 ########### Random generators, for search of inspiration stranded in the hands of 1/100000 chances, casuality, serendipity and God ##########
 Some of these may sound really cheap and sometimes they are, but for what it's worth I promise you'll have fun.
+[Research Randomizer Links](https://www.randomizer.org/links/)
+
+[Research Randomizer](https://www.randomizer.org/)
+
+[Random Website](https://fromdev.github.io/random-website/)
+
+[Random Website Machine](https://www.whatsmyip.org/random-website-machine/)
+
+[Randomweb.site](https://www.randomweb.site/)
+
+[Random-Website.com](https://random-website.com/)
+
 [Chaotic Shiny](http://chaoticshiny.com/index.php)
 
 [The Muse](http://muse.fawm.org/plot-spline?)
@@ -233,6 +282,10 @@ Some of these may sound really cheap and sometimes they are, but for what it's w
 [Behind The Name](https://www.behindthename.com/)
 
 [RanGen](https://www.rangen.co.uk/)
+
+[Generators List](https://www.generatorslist.com/)
+
+[D&D Generators links](https://www.reddit.com/r/dndnext/comments/8sr2ej/generators_endless_generators/)
 
 [Feath (only available on Wayback Machine)](https://web.archive.org/web/20200222231333/http://www.feath.com/index.html)
 
@@ -275,6 +328,14 @@ Can you tell I like surreal gibberish?
 [GeneratorMix](https://www.generatormix.com/)
 
 
+
+############### Lists of links, bookmarks lists #############
+
+[Bookmarks - Edinburgh Computer History](https://web.archive.org/web/20221003055952/http://sw.ccs.bcs.org/CCs/comphist.html)
+
+[Cray-cyber.org](https://www.cray-cyber.org/old/general/links.php)
+
+[Amigan Software](https://amigan.1emu.net/links/)
 
 
 ################ Tech ################
@@ -323,7 +384,17 @@ Can you tell I like surreal gibberish?
 
 [The Useless Web](https://theuselessweb.com/)
 
+[Dudeism](https://dudeism.com/)
+
+[WindowSwap](https://www.window-swap.com/)
+
+[Sleepbot](https://www.sleepbot.com/)
+
+[Terms of Service; Didn't Read](https://tosdr.org/)
+
 [WINDOWS93](https://www.windows93.net/)
+
+[Hemingway Editor](https://hemingwayapp.com/)
 
 [The Wiki Game](https://www.thewikigame.com/)
 
@@ -336,6 +407,8 @@ Can you tell I like surreal gibberish?
 [Bartosz Ciechanowski](https://ciechanow.ski/)
 
 [Orbital Designs](https://orbides.org/)
+
+[Entropy Explained](https://aatishb.com/entropy/)
 
 [Euryphysics](https://eurycosm.blogspot.com/)
 
