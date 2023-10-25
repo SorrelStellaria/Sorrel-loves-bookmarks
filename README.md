@@ -4,6 +4,12 @@
 
 [Are.na](are.na)
 
+[RateYourMusic](https://rateyourmusic.com/)
+
+[GifCities](https://gifcities.org/)
+
+[Flashpoint](https://flashpointarchive.org/)
+
 [vvvv visual live-programming](https://visualprogramming.net/)
 
 [stAllio!'s way](http://blog.animalswithinanimals.com/)
@@ -12,7 +18,19 @@
 
 [My 90s TV](https://www.my90stv.com/)
 
+[Just For Fun](https://justforfun.io/)
+
+[Notpron by David Münnich - The Hardest Riddle Available on the Internet](http://www.notpron.com/)
+
 [Huge indie video game artists space](https://itch.io/)
+
+[r/Roms Megathread](https://r-roms.github.io/)
+
+[Vimm's Lair](https://vimm.net/vault/Wii)
+
+[edge emulation - your source for roms](https://edgeemu.net/)
+
+[MAME](https://www.mamedev.org/)
 
 [Architecture of Doom blog](https://architectureofdoom.tumblr.com/)
 
@@ -28,8 +46,41 @@
 
 
 
+############# Archives, collections and databases ###########
+[The Library of Babel](https://libraryofbabel.info/)
+
+[HathiTrust](https://www.hathitrust.org/)
+
+[Usenet Archives](https://www.usenetarchives.com/)
+
+[The Eye](https://the-eye.eu/)
+
+[ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page)
+
+[Geocities Archive](https://www.oocities.org/)
+
+[The Weather Channel Archive](https://twcclassics.com/)
+
+[The Internet Speculative Fiction Database](https://www.isfdb.org/)
+
+[Fimfarchive](https://www.fimfiction.net/user/116950/Fimfarchive)
+
+[FREEMEDIAHECKYEAH Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
+
+[Hidden Palace](https://hiddenpalace.org/Main_Page)
+
+[The-Archive](https://the-archive.xyz/index.html)
+
+[Data Horde](https://datahorde.org/)
+
+[OSM Buildings](https://osmbuildings.org/)
+
+[Winamp Skin Museum](https://skins.webamp.org/)
+
 
 ############ Music Discovery ################
+
+[RateYourMusic](https://rateyourmusic.com/)
 
 [Radio4000](https://radio4000.com/)
 
@@ -144,9 +195,22 @@
 
 [BuildTheEarth - Recreating the entire planet in Minecraft](https://buildtheearth.net/)
 
+[OpenStreetMap](https://www.openstreetmap.org/)
+
+[GeoGuessr](https://www.geoguessr.com/)
+
+[CityGuessr](https://virtualvacation.us/guess)
+
+[LocationEstimatr](https://locationestimatr.github.io/play/)
+
+[Zooniverse - People-powered research](https://www.zooniverse.org/)
+
 [Digital Library of Appalachia](https://dla.contentdm.oclc.org/)
 
 [Tanzania Heritage Project](https://www.tanzaniaheritageproject.org/)
+
+
+
 
 ########### Random generators, for search of inspiration stranded in the hands of 1/100000 chances, casuality, serendipity and God ##########
 Some of these may sound really cheap and sometimes they are, but for what it's worth I promise you'll have fun.
@@ -223,6 +287,8 @@ Can you tell I like surreal gibberish?
 
 [CyberChef, Really fun cyber swiss knife](https://gchq.github.io/CyberChef/)
 
+[Virtual x86](https://copy.sh/v86/)
+
 
 ############ SHORTWAVE RADIO #############
 
@@ -253,40 +319,23 @@ Can you tell I like surreal gibberish?
 
 
 
+[Chicken on a Raft](https://chickenonaraft.com/)
 
-[The Library of Babel](https://libraryofbabel.info/)
+[The Useless Web](https://theuselessweb.com/)
 
-[HathiTrust](https://www.hathitrust.org/)
+[WINDOWS93](https://www.windows93.net/)
 
-[Usenet Archives](https://www.usenetarchives.com/)
-
-[The Eye](https://the-eye.eu/)
-
-[ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page)
-
-[Geocities Archive](https://www.oocities.org/)
-
-[The Weather Channel Archive](https://twcclassics.com/)
-
-[The Internet Speculative Fiction Database](https://www.isfdb.org/)
-
-[Fimfarchive](https://www.fimfiction.net/user/116950/Fimfarchive)
-
-[FREEMEDIAHECKYEAH Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
-
-[Hidden Palace](https://hiddenpalace.org/Main_Page)
-
-[The-Archive](https://the-archive.xyz/index.html)
-
-[Data Horde](https://datahorde.org/)
-
-[Winamp Skin Museum](https://skins.webamp.org/)
+[The Wiki Game](https://www.thewikigame.com/)
 
 [The Phrontistery](https://phrontistery.info/)
 
 [Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/)
 
 [Reverse Dictionary](https://reversedictionary.org/)
+
+[Bartosz Ciechanowski](https://ciechanow.ski/)
+
+[Orbital Designs](https://orbides.org/)
 
 [Euryphysics](https://eurycosm.blogspot.com/)
 
