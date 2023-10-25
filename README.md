@@ -148,6 +148,67 @@
 
 [Tanzania Heritage Project](https://www.tanzaniaheritageproject.org/)
 
+########### Random generators, for search of inspiration stranded in the hands of 1/100000 chances, casuality, serendipity and God ##########
+Some of these may sound really cheap and sometimes they are, but for what it's worth I promise you'll have fun.
+[Chaotic Shiny](http://chaoticshiny.com/index.php)
+
+[The Muse](http://muse.fawm.org/plot-spline?)
+
+[Perchance](https://perchance.org/welcome)
+
+[Seventh Sanctum](https://www.seventhsanctum.com/index.php)
+
+[Magatsu](https://www.magatsu.net/generators/)
+
+[The Troll Mystic](https://www.trollmystic.com/pub/)
+
+[Fantasy Name Generators, the true classic](https://www.fantasynamegenerators.com/)
+
+[Roll For Fantasy](https://rollforfantasy.com/)
+
+[Behind The Name](https://www.behindthename.com/)
+
+[RanGen](https://www.rangen.co.uk/)
+
+[Feath (only available on Wayback Machine)](https://web.archive.org/web/20200222231333/http://www.feath.com/index.html)
+
+[Serendipity](https://nine.frenchboys.net/index.php)
+
+[donjon](https://donjon.bin.sh/)
+
+[Fantasist](https://www.fantasist.net/home.shtml)
+
+[New-Age Bullshit Generator](https://sebpearce.com/bullshit/)
+
+[Gibberish Generator: this tool is amazingly fun to play around if you like surreal and wacky text](https://thinkzone.wlonk.com/Gibber/GibGen.htm)
+
+[Language Is a Virus](https://www.languageisavirus.com/)
+
+[Nonsense generator](https://nonsense.x2d.org/)
+
+[Mind Texture Randomizer](https://hajanga.com/#)
+
+[mixwords](https://filosophy.org/projects/mixwords/)
+
+Can you tell I like surreal gibberish? 
+
+[Tools for creating ideas](http://creatingminds.org/tools/tools_ideation.htm)
+
+[This Startup Does Not Exist](https://thisstartupdoesnotexist.com/)
+
+[This Word Does Not Exist](https://www.thisworddoesnotexist.com/)
+
+[D&D Compendium](https://www.dnd-compendium.com/home)
+
+[Creative Idea Generator](https://ideagenerator.creativitygames.net/)
+
+[Random Word Generator: an absolutely fantastic tool](https://randomwordgenerator.com/)
+
+[alien language generator](https://codepen.io/p5art/pen/XKWyob)
+
+[nonsense word generator](https://www.soybomb.com/tricks/words/)
+
+[GeneratorMix](https://www.generatormix.com/)
 
 
 
@@ -194,6 +255,38 @@
 
 
 [The Library of Babel](https://libraryofbabel.info/)
+
+[HathiTrust](https://www.hathitrust.org/)
+
+[Usenet Archives](https://www.usenetarchives.com/)
+
+[The Eye](https://the-eye.eu/)
+
+[ArchiveTeam](https://wiki.archiveteam.org/index.php/Main_Page)
+
+[Geocities Archive](https://www.oocities.org/)
+
+[The Weather Channel Archive](https://twcclassics.com/)
+
+[The Internet Speculative Fiction Database](https://www.isfdb.org/)
+
+[Fimfarchive](https://www.fimfiction.net/user/116950/Fimfarchive)
+
+[FREEMEDIAHECKYEAH Index](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index/)
+
+[Hidden Palace](https://hiddenpalace.org/Main_Page)
+
+[The-Archive](https://the-archive.xyz/index.html)
+
+[Data Horde](https://datahorde.org/)
+
+[Winamp Skin Museum](https://skins.webamp.org/)
+
+[The Phrontistery](https://phrontistery.info/)
+
+[Dictionary of Obscure Sorrows](https://www.dictionaryofobscuresorrows.com/)
+
+[Reverse Dictionary](https://reversedictionary.org/)
 
 [Euryphysics](https://eurycosm.blogspot.com/)
 
